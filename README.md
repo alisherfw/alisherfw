@@ -1,9 +1,5 @@
 <br clear="both">
-
-<h1 align="left">Hey, I’m Ali 👋</h1>
-
-###
-
+<h1 align="left">Hola, 👋</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
