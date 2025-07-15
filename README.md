@@ -3,6 +3,9 @@
 I can <b> build->test->deploy->monitor, </B> most of the time it works.<b style="color: red;">(don't ask how)</b> <br>
 Primarily backend-focused. I like servers, APIs, and making things run without crying.<br>
 I build tools I wish already existed. I sometimes do something completely unnecessary but brilliant.
+
+ <b> Actively seeking roles requiring 69 years of experience in technologies invented 3 years ago. No pun intended. 🪦 </b>
+
 </p>
 <!-- # -->
 
