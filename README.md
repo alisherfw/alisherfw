@@ -49,7 +49,7 @@ I build tools I wish already existed. I sometimes do something completely unnece
 
 ---
 
-### <h3 style="font-family: cursive;">📫 Say hi </h3>
+### <h3 style="font-family: cursive;">📫Let’s work together. I don’t bite. Unless you deploy to prod on Friday.</h3>
 
 <div align="left">
   <a href="https://linkedin.com/in/alisherfw" target="_blank">
