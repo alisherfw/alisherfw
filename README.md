@@ -37,8 +37,6 @@ I build tools I wish already existed. I sometimes do something completely unnece
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
