@@ -1,6 +1,6 @@
 <p style="font-family: cursive;">
 Primarily backend-focused. I like servers, APIs, and making things run without crying.<br>
- <b> Actively seeking roles requiring 69 years of experience in technologies invented 3 years ago. No pun intended. 🪦 </b>
+ <b> Actively seeking roles requiring 69 years of experience in technologies invented 3 years ago.🪦 </b>
 
 </p>
 <!-- # -->
@@ -10,7 +10,6 @@ Primarily backend-focused. I like servers, APIs, and making things run without c
 - [**FakeGen**](https://fakegen.alisherfw.me) – Generate fake data for APIs with schema builder & REST endpoints.  
 - [**SnapMark**](https://github.com/alisherfw/snapmark) – Collaborative markdown editor with real-time sync, built because Google Docs wasn’t hacker enough. -->
 
-#
 <!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -38,8 +37,7 @@ Primarily backend-focused. I like servers, APIs, and making things run without c
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 -->
-#
----
+
 
 <div align="left">
   <a href="https://linkedin.com/in/alisherfw" target="_blank">
