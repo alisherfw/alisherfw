@@ -11,7 +11,7 @@ Primarily backend-focused. I like servers, APIs, and making things run without c
 - [**SnapMark**](https://github.com/alisherfw/snapmark) – Collaborative markdown editor with real-time sync, built because Google Docs wasn’t hacker enough. -->
 
 #
-
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -37,7 +37,7 @@ Primarily backend-focused. I like servers, APIs, and making things run without c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
-
+-->
 #
 ---
 
