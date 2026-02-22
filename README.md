@@ -1,6 +1,5 @@
 <p style="font-family: cursive;">
 Primarily backend-focused. I like servers, APIs, and making things run without crying.<br>
- <b> Actively seeking roles requiring 69 years of experience in technologies invented 3 years ago.🪦 </b>
 
 </p>
 <!-- # -->
